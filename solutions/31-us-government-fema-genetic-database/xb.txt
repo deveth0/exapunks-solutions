@@ -92,5 +92,3 @@ SEEK T
 @REP 10
 COPY M F
 @END
-HALT
-
