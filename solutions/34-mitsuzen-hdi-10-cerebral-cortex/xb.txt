@@ -46,4 +46,3 @@ HALT
 
 
 MARK END
-HALT
